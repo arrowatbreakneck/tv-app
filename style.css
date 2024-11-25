@@ -1,0 +1,27 @@
+.headbar{
+    background-color:black;
+color:wheat;
+text-align: center;
+}
+
+.searchArea{
+    text-align: center;
+    padding: 5px;
+}
+
+button{
+    margin-bottom: 4px;
+}
+
+.notty{
+    font-size: x-large;
+    color: dimgrey;
+}
+
+body{
+    background-color: gray;
+}
+
+.card-body{
+    background-color:rgb(182, 159, 100);
+}
